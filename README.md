@@ -1,6 +1,6 @@
-# WAservix PowerShell module
+# WAservix PowerShell module: WhatsApp API Gateway
 
-Send WhatsApp messages from your own number in PowerShell, with [WAservix](https://tekservix.com/waservix) (formerly WApenda) by Tekservix.
+Send WhatsApp API Gateway messages from your own number in PowerShell, with the [WAservix WhatsApp API Gateway](https://tekservix.com/waservix) (formerly WApenda) by Tekservix.
 
 **You need a Tekservix account with WAservix and a WhatsApp number connected in the dashboard.** The module is a client of the public WAservix API; your plan, limits and numbers are managed in your WAservix dashboard. [Create an account](https://tekservix.com/waservix) · [API docs](https://tekservix.com/waservix/docs/)
 
