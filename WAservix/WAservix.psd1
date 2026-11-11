@@ -5,7 +5,7 @@
     Author               = 'Tekservix'
     CompanyName          = 'Tekservix'
     Copyright            = '(c) 2026 Tekservix. MIT License.'
-    Description          = 'PowerShell client for the WAservix WhatsApp API Gateway (formerly WApenda) by Tekservix: send WhatsApp API Gateway messages - texts, images, documents and locations from your own number, check delivery status, check numbers, list contacts and groups, and verify webhook calls. Requires a Tekservix account with WAservix and a device API key: https://tekservix.com/waservix'
+    Description          = 'WAservix WhatsApp API Gateway (formerly WApenda): official PowerShell client by Tekservix. Send WhatsApp texts, images, documents and locations from your own number, check delivery status, check numbers, list contacts and groups, and verify webhook calls. Requires a Tekservix account with WAservix and a device API key: https://tekservix.com/waservix'
     PowerShellVersion    = '5.1'
     CompatiblePSEditions = @('Desktop', 'Core')
     FunctionsToExport    = @(
